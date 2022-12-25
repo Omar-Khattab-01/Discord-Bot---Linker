@@ -1,0 +1,20 @@
+***False
+ds1 https://uottawa-ca.zoom.us/j/99764489346?pwd=aUNqYkl2OWZTWC9MQjVyQVdablZpUT09&uname=Omar+Khattab#success 209:59
+ds2 https://uottawa-ca.zoom.us/j/93583320380?pwd=UVpiNlovRUczQUFlY3ppT2Q2MzlSdz09&uname=Omar+Khattab#success 408:29
+dstut https://uottawa-ca.zoom.us/j/93863113304?pwd=N0ppb0dIWFFsUm05MU1pNVYwVWgrZz09&uname=Omar+Khattab#success 317:29
+prob2 https://uottawa-ca.zoom.us/j/99602233105?pwd=NmZWQnhxMlQ5RWtwckx0YitXWWJaZz09&uname=Omar+Khattab#success 308:29
+propar1 https://uottawa-ca.zoom.us/j/95824483404?pwd=d0w0TmEra2loL1hOK0p2eDBvNFV4UT09#success 115:59
+propar2 https://uottawa-ca.zoom.us/j/95824483404?pwd=d0w0TmEra2loL1hOK0p2eDBvNFV4UT09#success 314:29
+prob1 https://uottawa-ca.zoom.us/j/95903418875?pwd=SEdFdUNXY0paTWJsUTJ1UW5vOWVodz09&uname=Omar+Khattab#success 109:59
+data1 https://uottawa-ca.zoom.us/j/94289168574?pwd=REFyVjdBWXFRY2N6QlQ1T0FZa21FZz09&uname=Omar+Khattab#success 212:59
+data2 https://uottawa-ca.zoom.us/j/98097088365?pwd=QnlhYmR3OG00NENzdnZRVjUrWHhuUT09&uname=Omar+Khattab#success 411:29
+datalab https://uottawa-ca.zoom.us/j/93884622307?pwd=aFVFbzJDK2V0RHVDUGsyNm11ZXREQT09&uname=Omar+Khattab#success 014:29
+datatut https://uottawa-ca.zoom.us/j/97594822584?pwd=OG5LN2hRR05Sa0tvdm1QaGd1a0dPQT09&uname=Omar+Khattab#success 015:59
+propra https://uottawa-ca.zoom.us/j/98579738576?pwd=RndYaGk0QkQxeHkyZFlucTB2dXJ0Zz09&uname=Omar+Khattab#success 318:59
+amr https://www.youtube.com/watch?v=fHQnszSZoXE&list=RDfHQnszSZoXE&start_radio=1 315:54
+3amora https://www.youtube.com/watch?v=fHQnszSZoXE&list=RDfHQnszSZoXE&start_radio=1 400:23
+3amora2 https://www.youtube.com/watch?v=fHQnszSZoXE&list=RDfHQnszSZoXE&start_radio=1 400:25
+
+proparlab https://uottawa-ca.zoom.us/j/95561361437?pwd=WVhSQm1vdGV4TU1RbURFa056Y1gzdz09#success 311:29
+3amoraa https://www.youtube.com/watch?v=fHQnszSZoXE&list=RDfHQnszSZoXE&start_radio=1 320:15
+3amoraaa https://www.youtube.com/watch?v=fHQnszSZoXE&list=RDfHQnszSZoXE&start_radio=1 220:18
